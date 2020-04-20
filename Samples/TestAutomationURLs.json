@@ -1,8 +1,6 @@
 {
   "TestURLs": 
   [
-    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
-    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
-    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}"
+    "https://apps.powerapps.com/play/22d4606d-179e-4981-bad7-f043a0b8c689?tenantId=ea02a4cf-dd94-45a9-9871-d1a7c609e359&__PATestCaseId=baf7bc38-457b-4a96-a799-6336a6b5e4cb"
   ]
 }
